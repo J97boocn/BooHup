@@ -311,10 +311,10 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiHub111/Gui11/refs/heads/main/Idk"))();
+local v14 = amt
 local v15 = v14:CreateWindow({
     Title = "bô Hub",
-    SubTitle = "Blox Fruit",
+    SubTitle = "Blox Fruit","arise crossover","blue lock",
     TabWidth = 160,
     Theme = "Dark",
     Acrylic = false,
